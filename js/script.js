@@ -6,8 +6,8 @@ const projects = [
       "A full-stack e-commerce platform with payment integration, product management, and user authentication.",
     technologies: ["React", "Node.js", "MongoDB", "Stripe API"],
     github: "https://github.com/bonatolasa/ecommerce-platform",
-    image:
-      "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+    image: "images/bankist.jpg",
+    // "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
   },
   {
     title: "Home-Rental System",
@@ -33,8 +33,8 @@ const projects = [
       "An application that helps users discover recipes based on ingredients they have available.",
     technologies: ["Python", "Flask", "PostgreSQL", "Spoonacular API"],
     github: "https://github.com/bonatolasa/recipe-finder",
-    image:
-      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+    image: "images/anaf-logo.png",
+    // "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
   },
   {
     title: "Ominofood website",
