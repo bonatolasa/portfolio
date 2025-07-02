@@ -104,6 +104,15 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
   });
 });
 
+// document.querySelectorAll(".nav-links").forEach(function (el) {
+//   el.addEventListener("click", function (e) {
+//     e.preventDefault();
+//     const id = e.target.getAttribute("href");
+//     console.log(id);
+//     document.querySelector(id).scrollIntoView({ behavior: "smooth" });
+//   });
+// });
+
 // Form Handling
 contactForm.addEventListener("submit", function (e) {
   e.preventDefault();
