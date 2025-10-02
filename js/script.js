@@ -14,25 +14,25 @@ const projects = [
     description:
       "A productivity application for managing tasks with drag-and-drop functionality and team collaboration features.",
     technologies: ["TypeScript", "React", "Firebase", "Material UI"],
-    github: "https://github.com/bonatolasa/task-manager",
-    image:
-      "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+    github: "https://github.com/bonatolasa",
+    image:"images/rentalHouse.jpg"
+      //"https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
   },
   {
     title: "Online-Exam System",
     description:
       "A weather application that displays current and forecasted weather data for locations around the world.",
     technologies: ["JavaScript", "OpenWeather API", "CSS3", "HTML5"],
-    github: "https://github.com/bonatolasa/weather-app",
-    image:
-      "https://images.unsplash.com/photo-1601134467661-3d775b999c8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+    github: "https://github.com/bonatolasa",
+    image:"images/Online-Examination.png"
+    //  "https://images.unsplash.com/photo-1601134467661-3d775b999c8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
   },
   {
     title: "Anaf Medical Assistance",
     description:
       "An application that helps users discover recipes based on ingredients they have available.",
     technologies: ["Python", "Flask", "PostgreSQL", "Spoonacular API"],
-    github: "https://github.com/bonatolasa/recipe-finder",
+    github: "https://github.com/bonatolasa",
     image: "images/anaf-logo.png",
     // "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
   },
@@ -41,9 +41,9 @@ const projects = [
     description:
       "A responsive portfolio website showcasing my projects and skills as a developer.",
     technologies: ["HTML5", "CSS3", "JavaScript", "Git"],
-    github: "https://github.com/bonatolasa/portfolio",
-    image:
-      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+    github: "https://github.com/bonatolasa",
+    image:"images/ominofood.png"
+      //"https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
   },
 ];
 
